@@ -1,0 +1,14 @@
+Package: functional-dag
+Version: 0.1.1
+Architecture: amd64
+Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
+Installed-Size: 5067
+Filename: ./functional-dag-0.1.1-Source.deb
+Size: 1152106
+MD5sum: 03a4dc40a0bbc9a8b8623e9893d2ed01
+SHA1: b78b7ab614d9dfcf5dafc9db75aa3797268b3d02
+SHA256: 092a520d4731d2756fe3665c47cbfa442f38bc1d536d89b00be19b4e4093a38c
+Section: devel
+Priority: optional
+Description: A directed acyclic graph that runs a function on each node.
+
