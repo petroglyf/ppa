@@ -2,12 +2,26 @@ Package: functional-dag
 Version: 0.1.1
 Architecture: amd64
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
-Installed-Size: 5067
-Filename: ./functional-dag-0.1.1-Source.deb
-Size: 1152106
-MD5sum: 03a4dc40a0bbc9a8b8623e9893d2ed01
-SHA1: b78b7ab614d9dfcf5dafc9db75aa3797268b3d02
-SHA256: 092a520d4731d2756fe3665c47cbfa442f38bc1d536d89b00be19b4e4093a38c
+Installed-Size: 1705
+Filename: ./functional-dag-0.5.amd64.deb
+Size: 491128
+MD5sum: 45844f6733a623ab4bd78992b5b7b323
+SHA1: 7d7ec8b171d3dd8de2345c95b14276330f458322
+SHA256: f390907bee2496983fc50f22cc4de748f7bc93c800410c56b5f9ebcb355479e5
+Section: devel
+Priority: optional
+Description: A directed acyclic graph that runs a function on each node.
+
+Package: functional-dag
+Version: 0.5
+Architecture: arm64
+Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
+Installed-Size: 1668
+Filename: ./functional-dag-0.5.arm64.deb
+Size: 477850
+MD5sum: c118026ed1c31e210317e807131f9c7d
+SHA1: bfa1299dfcb1d9c7a2c00c638ce9b36ea82f52da
+SHA256: 48e177e95a57cfadf7cb2c781ce4d781748276ad0ca114874abb06a95fd325dd
 Section: devel
 Priority: optional
 Description: A directed acyclic graph that runs a function on each node.
