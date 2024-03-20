@@ -26,3 +26,31 @@ Section: devel
 Priority: optional
 Description: A directed acyclic graph that runs a function on each node.
 
+Package: vin
+Version: 0.7
+Architecture: amd64
+Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
+Installed-Size: 7183
+Filename: ./vin-0.7.amd64.deb
+Size: 2655398
+MD5sum: fb79add7a7335625bd47e27f410081ae
+SHA1: af6e7316a1c86bc314c5ac08ef49a0b86b628e54
+SHA256: c04aca016c056f61e188495476ab30e2e169e0496fc8a19b6dafc1d308d6de67
+Section: devel
+Priority: optional
+Description: VIN is a set of tools to integrate simple video into minimal DAGs for processing.
+
+Package: vin
+Version: 0.7
+Architecture: arm64
+Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
+Installed-Size: 7103
+Filename: ./vin-0.7.arm64.deb
+Size: 2614954
+MD5sum: 0ce2046f68849038819bb3b2293a3242
+SHA1: e5544bb655dabc81a9f9fde6f4b659cda6d8f21c
+SHA256: a89651774b29129c7ea17d1424b6c53d97da125f9272d481d57a71c7e3a0dcbe
+Section: devel
+Priority: optional
+Description: VIN is a set of tools to integrate simple video into minimal DAGs for processing.
+
