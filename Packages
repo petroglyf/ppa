@@ -31,11 +31,12 @@ Version: 0.7
 Architecture: amd64
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
 Installed-Size: 7183
+Depends: libjsoncpp25 (>= 1.9), libc6 (>= 2), libqt6multimedia6 (>= 6.2), libqt6core6 (>= 6.2)
 Filename: ./vin-0.7.amd64.deb
-Size: 2655398
-MD5sum: fb79add7a7335625bd47e27f410081ae
-SHA1: af6e7316a1c86bc314c5ac08ef49a0b86b628e54
-SHA256: c04aca016c056f61e188495476ab30e2e169e0496fc8a19b6dafc1d308d6de67
+Size: 2655448
+MD5sum: 1843f3bbf7bfe4923371466b55b66a7d
+SHA1: 6ff492a4bf940d975ca1c0e33e70700c67f78e64
+SHA256: ef48cf4f4cae0181875928b7196aea247a2f0702446c71b743bb850ebb96ce41
 Section: devel
 Priority: optional
 Description: VIN is a set of tools to integrate simple video into minimal DAGs for processing.
@@ -45,11 +46,12 @@ Version: 0.7
 Architecture: arm64
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
 Installed-Size: 7103
+Depends: libjsoncpp25 (>= 1.9), libc6 (>= 2), libqt6multimedia6 (>= 6.2), libqt6core6 (>= 6.2)
 Filename: ./vin-0.7.arm64.deb
-Size: 2614954
-MD5sum: 0ce2046f68849038819bb3b2293a3242
-SHA1: e5544bb655dabc81a9f9fde6f4b659cda6d8f21c
-SHA256: a89651774b29129c7ea17d1424b6c53d97da125f9272d481d57a71c7e3a0dcbe
+Size: 2615002
+MD5sum: ea1b9544adaaa4ce2833958f89183512
+SHA1: faac15e571d048f426753b7f13f8bc75bafa1509
+SHA256: d32fd4d86ceb42d5d89b227ec874a25cbce552faffbd9138d05e9afeaccc3aa0
 Section: devel
 Priority: optional
 Description: VIN is a set of tools to integrate simple video into minimal DAGs for processing.
