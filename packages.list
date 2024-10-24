@@ -1,1 +1,1 @@
-deb [signed-by=/etc/apt/trusted.gpg.d/ppa.gpg] https://petrogly-ph.github.io/ppa ./
+deb [signed-by=/etc/apt/trusted.gpg.d/ppa.gpg] https://petroglyf.github.io/ppa ./
