@@ -32,10 +32,10 @@ Architecture: arm64
 Bugs: https://github.com/petroglyf/functional-dag/issues
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
 Filename: ./functional-dag-1.0rc1.arm64.deb
-Size: 509618
-MD5sum: a7c7fe695a659ab8648c522a0e6caee9
-SHA1: 676907d82fc3d59b5ca3935513beb8b01ef6a8f9
-SHA256: 57b7118e57c4a8f38c4493021bd356d464ee7d9dfe97b167b587f41fcee4945e
+Size: 537638
+MD5sum: 179a1ff9923aef0fc11c19ac2924ed22
+SHA1: 3106e5839a05509afb0e2bfb5a80d87e437d35d3
+SHA256: 40e6d6bb4bd0dde72d6eaf5ecf6fd11723d7aa2e973ba814f784d9642e4e0071
 Section: devel
 Priority: optional
 Multi-Arch: foreign
@@ -45,14 +45,14 @@ Standards-Version: 4.6.2
 
 Package: functional-dag
 Version: 1.0rc1
-Architecture: arm64
+Architecture: amd64
 Bugs: https://github.com/petroglyf/functional-dag/issues
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
 Filename: ./functional-dag-1.0rc1.amd64.deb
-Size: 44914
-MD5sum: 3aa6ca044706b6df1d4140ff22793250
-SHA1: f29b48c1eb00f6fc0a75e2d8bfcc431cb2fea3a5
-SHA256: 65a9c6b380a98a087b06c144fe9e4bfeaa134269b98ece369f26d4d7d769b82e
+Size: 52690
+MD5sum: 32946b334c1bd632102c29a0740f97d8
+SHA1: 1e30092c2f835beddabe21f8a808eeccf8998317
+SHA256: 18d4f63dce8fabcf0bb001dffe42c588cd4e02b3b3d0774b79ee3f5ce9d84fcb
 Section: devel
 Priority: optional
 Multi-Arch: foreign
