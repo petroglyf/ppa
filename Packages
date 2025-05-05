@@ -28,14 +28,14 @@ Description: A directed acyclic graph that runs a function on each node.
 
 Package: functional-dag
 Version: 1.0rc1
-Architecture: arm64
+Architecture: amd64
 Bugs: https://github.com/petroglyf/functional-dag/issues
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
 Filename: ./functional-dag-1.0rc1.arm64.deb
-Size: 537638
-MD5sum: 179a1ff9923aef0fc11c19ac2924ed22
-SHA1: 3106e5839a05509afb0e2bfb5a80d87e437d35d3
-SHA256: 40e6d6bb4bd0dde72d6eaf5ecf6fd11723d7aa2e973ba814f784d9642e4e0071
+Size: 537730
+MD5sum: a52b0f4fd9747134a95112e585e8ef4b
+SHA1: e9a9ef9fb64651b2b949578a9da02ef673c2e561
+SHA256: a522149be2e1cae8147ff0b5e8bf6229d2e1ed63f988475307eafa80fdfded68
 Section: devel
 Priority: optional
 Multi-Arch: foreign
