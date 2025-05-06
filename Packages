@@ -45,14 +45,14 @@ Standards-Version: 4.6.2
 
 Package: functional-dag
 Version: 1.0
-Architecture: amd64
+Architecture: arm64
 Bugs: https://github.com/petroglyf/functional-dag/issues
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
 Filename: ./functional-dag-1.0.arm64.deb
-Size: 537640
-MD5sum: 1bf494d1054878dd1b4a48a6ed25f264
-SHA1: 8b3573d7370ac6e04526e9975cf91a7db27e843a
-SHA256: 34724450c0eb96bd5dd24a83a57b96da1762e4f71282ec2d384888a12252a809
+Size: 537690
+MD5sum: e654c383a2098d8d2a7afbfb02da0392
+SHA1: 3ab3c7ed4fc1e51c871650d4dece4baf1e016aeb
+SHA256: cb849ec3dd3bb16970fededfc41945e322d35c170ac63eacd376d5da3b5d75bc
 Section: devel
 Priority: optional
 Multi-Arch: foreign
