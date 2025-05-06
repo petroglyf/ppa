@@ -27,15 +27,15 @@ Priority: optional
 Description: A directed acyclic graph that runs a function on each node.
 
 Package: functional-dag
-Version: 1.0rc1
+Version: 1.0
 Architecture: amd64
 Bugs: https://github.com/petroglyf/functional-dag/issues
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
-Filename: ./functional-dag-1.0rc1.arm64.deb
-Size: 537730
-MD5sum: a52b0f4fd9747134a95112e585e8ef4b
-SHA1: e9a9ef9fb64651b2b949578a9da02ef673c2e561
-SHA256: a522149be2e1cae8147ff0b5e8bf6229d2e1ed63f988475307eafa80fdfded68
+Filename: ./functional-dag-1.0.amd64.deb
+Size: 52696
+MD5sum: 11eeae8707be4fbae694c78e851b1d80
+SHA1: 1a875f633c24279f8b86db57d58d2b0cf11272d2
+SHA256: 778213aaea4d9916740a047c7e595dce89b7384d96c1ceaf4b18e60a4c1de718
 Section: devel
 Priority: optional
 Multi-Arch: foreign
@@ -44,15 +44,15 @@ Description: A directed acyclic graph that runs a function on each node.
 Standards-Version: 4.6.2
 
 Package: functional-dag
-Version: 1.0rc1
+Version: 1.0
 Architecture: amd64
 Bugs: https://github.com/petroglyf/functional-dag/issues
 Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
-Filename: ./functional-dag-1.0rc1.amd64.deb
-Size: 52690
-MD5sum: 32946b334c1bd632102c29a0740f97d8
-SHA1: 1e30092c2f835beddabe21f8a808eeccf8998317
-SHA256: 18d4f63dce8fabcf0bb001dffe42c588cd4e02b3b3d0774b79ee3f5ce9d84fcb
+Filename: ./functional-dag-1.0.arm64.deb
+Size: 537640
+MD5sum: 1bf494d1054878dd1b4a48a6ed25f264
+SHA1: 8b3573d7370ac6e04526e9975cf91a7db27e843a
+SHA256: 34724450c0eb96bd5dd24a83a57b96da1762e4f71282ec2d384888a12252a809
 Section: devel
 Priority: optional
 Multi-Arch: foreign
