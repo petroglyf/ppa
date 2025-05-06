@@ -90,3 +90,39 @@ Section: devel
 Priority: optional
 Description: VIN is a set of tools to integrate simple video into minimal DAGs for processing.
 
+Package: vin
+Version: 1.0rc1
+Architecture: amd64
+Bugs: https://github.com/petroglyf/vin/issues
+Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
+Depends: qt6-multimedia-dev (>=6.4), qt6-base-dev (>=6.4), functional-dag (>=1.0), libgl1-mesa-dev (>=24.2), libflatbuffers2 (>=2.0), libgoogle-glog0v6
+Filename: ./vin-1.0rc1.amd64.deb
+Size: 129852
+MD5sum: 4dc800c7829f19e2152d396245338165
+SHA1: e61512aa2201997e0fd3bd1234e075be3cfbba5b
+SHA256: 84eeebc9ce718d94e2fc846cd386e757f38282f08d54795aa546802b73343bea
+Section: science
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/petroglyf/vin
+Description: VIN is a set of tools to integrate simple video into minimal DAGs for processing.
+Standards-Version: 4.6.2
+
+Package: vin
+Version: 1.0rc1
+Architecture: arm64
+Bugs: https://github.com/petroglyf/vin/issues
+Maintainer: Nick DePalma <ndepalma@alum.mit.edu>
+Depends: qt6-multimedia-dev (>=6.4), qt6-base-dev (>=6.4), functional-dag (>=1.0), libgl1-mesa-dev (>=24.2), libflatbuffers2 (>=2.0), libgoogle-glog0v6
+Filename: ./vin-1.0rc1.arm64.deb
+Size: 2402542
+MD5sum: 4ad24657e05835274e123e80e336f834
+SHA1: 33609a41bf2329f5c5dc95a0938f82226621dbcf
+SHA256: 362d3faac0b602d75ee4f76f8471d5c38c316218727e649803972e41de21cfe2
+Section: science
+Priority: optional
+Multi-Arch: foreign
+Homepage: https://github.com/petroglyf/vin
+Description: VIN is a set of tools to integrate simple video into minimal DAGs for processing.
+Standards-Version: 4.6.2
+
